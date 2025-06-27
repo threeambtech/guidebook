@@ -1,0 +1,21 @@
+{
+  "short_name": "3AMB Guidebook",
+  "name": "3AMB Guidebook - Digital Companion",
+  "description": "Your comprehensive digital companion for understand your life in 3AMB.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#ffb300",
+  "background_color": "#ffffff",
+  "categories": ["productivity", "utilities", "reference"],
+  "lang": "en",
+  "scope": "/",
+  "prefer_related_applications": false
+}
