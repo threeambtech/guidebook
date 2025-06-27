@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/guidebook/static/css/main.b4d82cd4.css",
-    "main.js": "/guidebook/static/js/main.8a7a6741.js",
-    "static/media/quicksand-latin-ext-400-normal.woff": "/guidebook/static/media/quicksand-latin-ext-400-normal.1e5e50640be84762e1c2.woff",
-    "static/media/quicksand-latin-400-normal.woff": "/guidebook/static/media/quicksand-latin-400-normal.c483fecfa5b2b6081267.woff",
-    "static/media/quicksand-latin-400-normal.woff2": "/guidebook/static/media/quicksand-latin-400-normal.8d207fa27addbf026018.woff2",
-    "static/media/quicksand-latin-ext-400-normal.woff2": "/guidebook/static/media/quicksand-latin-ext-400-normal.7ff467ecc8f82d5d4983.woff2",
-    "static/media/quicksand-vietnamese-400-normal.woff": "/guidebook/static/media/quicksand-vietnamese-400-normal.b81893c113e684d9eec4.woff",
-    "static/media/quicksand-vietnamese-400-normal.woff2": "/guidebook/static/media/quicksand-vietnamese-400-normal.5062c95fb3c68af2ee2e.woff2",
-    "index.html": "/guidebook/index.html"
+    "main.css": "/Companion/static/css/main.060e8d75.css",
+    "main.js": "/Companion/static/js/main.8a7a6741.js",
+    "static/media/quicksand-latin-ext-400-normal.woff": "/Companion/static/media/quicksand-latin-ext-400-normal.1e5e50640be84762e1c2.woff",
+    "static/media/quicksand-latin-400-normal.woff": "/Companion/static/media/quicksand-latin-400-normal.c483fecfa5b2b6081267.woff",
+    "static/media/quicksand-latin-400-normal.woff2": "/Companion/static/media/quicksand-latin-400-normal.8d207fa27addbf026018.woff2",
+    "static/media/quicksand-latin-ext-400-normal.woff2": "/Companion/static/media/quicksand-latin-ext-400-normal.7ff467ecc8f82d5d4983.woff2",
+    "static/media/quicksand-vietnamese-400-normal.woff": "/Companion/static/media/quicksand-vietnamese-400-normal.b81893c113e684d9eec4.woff",
+    "static/media/quicksand-vietnamese-400-normal.woff2": "/Companion/static/media/quicksand-vietnamese-400-normal.5062c95fb3c68af2ee2e.woff2",
+    "index.html": "/Companion/index.html"
   },
   "entrypoints": [
-    "static/css/main.b4d82cd4.css",
+    "static/css/main.060e8d75.css",
     "static/js/main.8a7a6741.js"
   ]
 }
