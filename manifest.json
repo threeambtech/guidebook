@@ -9,13 +9,13 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": ".",
+  "start_url": "/guidebook/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "theme_color": "#ffb300",
   "background_color": "#ffffff",
   "categories": ["productivity", "utilities", "reference"],
   "lang": "en",
-  "scope": "/",
+  "scope": "/guidebook/",
   "prefer_related_applications": false
 }
