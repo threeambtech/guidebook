@@ -33,6 +33,7 @@ import {
   Search as SearchIcon,
   Close as CloseIcon,
 } from '@mui/icons-material';
+import PWAInstallButton from './PWAInstallButton';
 
 function CustomAppBar({ onShowWelcome, onPageChange, currentPage }) {
   const [drawerOpen, setDrawerOpen] = useState(false);
@@ -312,6 +313,9 @@ function CustomAppBar({ onShowWelcome, onPageChange, currentPage }) {
               3AMB Guidebook
             </Typography>
           )}
+          
+          {/* PWA Install Button */}
+          <PWAInstallButton />
           
           {/* Search functionality */}
           <Box 

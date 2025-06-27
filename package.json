@@ -1,6 +1,6 @@
 {
   "name": "3ambguidebook",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -23,7 +23,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "version:update": "node update-version.js"
   },
   "eslintConfig": {
     "extends": [

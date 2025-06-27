@@ -92,7 +92,7 @@ const About = () => {
     }
   ];
 
-  const version = '1.0.0';
+  const version = '1.1.0';
   const lastUpdated = 'June 2025';
 
   return (

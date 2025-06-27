@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import {
   AppBar, Toolbar, Typography, Container,
   IconButton, Drawer, List, ListItem, ListItemText,
@@ -13,6 +13,8 @@ import Settings from './pages/Settings';
 import Help from './pages/Help';
 import About from './pages/About';
 import CustomAppBar from './components/CustomAppBar';
+import OfflineIndicator from './components/OfflineIndicator';
+import PWAUpdateNotification from './components/PWAUpdateNotification';
 
 
 
@@ -201,6 +203,8 @@ function App() {
         />
         {renderCurrentPage()}
         <ScrollTopButton />
+        <OfflineIndicator />
+        <PWAUpdateNotification />
       </Box>
     </ThemeProvider>
   )
